@@ -14,3 +14,8 @@
   
 >내가 이해한 유전 알고리즘으로 그네를 높게 탈 수 있도록 하는 시뮬레이션을 간단하게 구현해봤다.  
 >부족한 부분들이 많지만 유전 알고리즘을 이해할 수 있는 좋은 경험이었다.
+<br>
+<h3> 그네 시뮬레이션 시연 영상 </h3>
+
+[![Vue](https://user-images.githubusercontent.com/53072057/101438531-ef04ba80-3955-11eb-83f0-d4b9b7296b81.JPG)](https://youtu.be/HyTneNg6kUA)
+  
